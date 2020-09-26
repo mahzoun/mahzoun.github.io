@@ -933,7 +933,7 @@ table tfoot td {
   width: 240px;
   height: 100%;
   padding: 20px 10px;
-  background-color: #ffffff;
+  background-color: #28231d;
 }
 
 .about {
@@ -970,13 +970,13 @@ table tfoot td {
 
 .about .author-name {
   font-family: 'PT Serif', serif;
-  margin: 0 0 10px;
+  margin: 20px 0 10px;
   position: relative;
   padding-bottom: 15px;
   font-size: 16px;
-  text-transform: uppercase;
-  color: #333030;
-  font-weight: 700;
+  /* text-transform: uppercase; */
+  color: #c9c9c9;
+  font-weight: 800;
 }
 
 .about .author-name::after {
@@ -988,16 +988,18 @@ table tfoot td {
           transform: translateX(-50%);
   bottom: 0;
   display: block;
-  width: 7px;
-  height: 7px;
+  width: 0px;
+  height: 0px;
   -webkit-border-radius: 100%;
           border-radius: 100%;
   background-color: #515151;
 }
 
 .about p {
+  color: #c9c9c9;
   font-size: 16px;
   margin: 0 0 10px;
+  text-align: left;
 }
 
 .content-box {
@@ -1023,7 +1025,7 @@ table tfoot td {
 
 .contact .contact-title {
   position: relative;
-  color: #333030;
+  color: #c9c9c9;
   font-weight: 400;
   font-size: 12px;
   margin: 0 0 5px;
@@ -1098,6 +1100,7 @@ footer .copyright {
   font-size: 14px;
   text-align: center;
   margin: 0;
+  color: #c9c9c9;
 }
 
 .post {
@@ -1221,7 +1224,7 @@ a.newer-posts:hover {
   position: relative;
   padding: 0;
   margin: 0;
-  max-height: 500px;
+  max-height: 1000px;
   background-color: #fafafa;
   overflow: hidden;
 }
