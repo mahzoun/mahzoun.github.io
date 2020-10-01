@@ -889,7 +889,8 @@ table tfoot td {
 }
 
 .post, .article-page {
-  background-color: #fff;
+  background-color: #06060600;
+  color: #eee
 }
 
 ::-moz-selection {
@@ -1151,6 +1152,8 @@ footer .copyright {
 .post .post-content {
   padding: 1rem;
   width: 70%;
+  background: #000000e8;
+  color: #eee
 }
 
 .post .post-content .post-date,
@@ -1167,7 +1170,7 @@ footer .copyright {
 .post .post-content .post-title a {
   font-family: 'PT Serif', serif;
   text-decoration: none;
-  color: #263959;
+  color: #eee;
 }
 
 .post .post-content p {
@@ -1214,7 +1217,7 @@ a.newer-posts:hover {
 }
 
 .header-page .page-date {
-  color: #a0a0a0;
+  color: #fff;
   font-weight: 300;
   font-size: 12px;
   text-transform: uppercase;
