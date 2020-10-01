@@ -9,7 +9,8 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Mairon # add your name
 author-img: mahzoun.jpg # add your photo
-about-author: I am Mairon (Officially, Mohammad Mahzoun). I am from Bojnord, Iran.  I am a Ph.D. student at TU/e working on algebraic ciphers and theoretical aspects of cryptography. Feel free to get in touch.
+about-author: I am Mairon (Officially, Mohammad Mahzoun). I am from Bojnord, Iran.  I am a student of mathematics and computer science. More specifically, I work on theoretical foundations of security.
+I am also a newbie photographer. I care about mother nature, kids, and arts. Feel free to get in touch. You can use {Mohammad,Mairon}.Mahzoun@gmail.com!
 social-twitter: mmahzoun # add your Twitter handle
 social-facebook: mmahzoun # add your Facebook handle
 social-github: mahzoun # add your Github handle
