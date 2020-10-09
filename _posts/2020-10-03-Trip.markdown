@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Trip to south"
+date: 2020-10-03 20:38:20 +0200
+description: My adventures in my short trip to Hyères, a beautiful city in the south.  # Add post description (optional)
+img:  Hyeres/IMG_20200915_144904.jpg
+---
+
+
+<!-- {% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %} -->
+
+# Day 1
+### Sep 14 2020
+-----
+Monday. It was the day to start a short trip to discover Paris with my friend, Nienna. As for the destination, we were looking for a peaceful and charming place where we can be far from people and enjoy nature. After hours of searching, we decided to go to Hyeres. In the morning, after eating breakfast, we packed. It took a while. We had to leave after lunch. I was preparing lunch and Mora was there too walking around in the kitchen. I asked her to take care of Fangorn and Catherine while I am gone. She kindly accepted and I offered her my ice creams. After lunch, we went to the Gare de Lyon. There was a long queue of passengers. They checked our tickets and we entered the train. I then cleaned the surrounding space using alcohol. Hard days are these. Corona is everywhere. The train started to move. Fast it was. We passed through farms, villages, rivers, and mountains. I was thinking about living in those villages. After a few stations, we arrived to Toulon. We had to change the train. The second train came after some minutes. It was pleasant to wait in the station. The train to Hyeres was almost empty. We luckily were able to charge our phones. There were two other girls in the next seats. They were on the same train us from Paris as well. We arrived at Hyeres after twenty minutes. The city was dark and quiet. Almost dead. Perfect place. We had booked a studio for the first four days. It was 20 minutes walking path. Also, there was no bus. During the walk, I found the city quite and really safe. We then arrived in the old part of the city. It was a completely new world. Lots of cafes, restaurants, lights, and happy people. What a city! We enjoyed walking on stone paths and hearing the laughter of people. Passing through beautiful walkways lead us to the studio. It was not the best. But it was a nice experience to live there. It had a weird smell too. We unpacked and slept. It was a tiring day and we had much to discover for tomorrow.
+
+![The studio we stayed in the first four days]({{site.baseurl}}/assets/img/Hyeres/IMG_20200915_131407.jpg)
