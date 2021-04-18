@@ -3,10 +3,8 @@ layout: post
 title: "End of Hesam"
 date: 2021-04-17 20:38:20 +0200
 description: In memory of my good old friend who just left us.  # Add post description (optional)
-img:  Mandos/photo_2021-03-21_11-02-23.jpg
+img:  Friends/hesam.jpg
 ---
 
-
-![Mandos]({{site.baseurl}}/assets/img/Friends/hesam.jpg)
 
 He was a kind man. Super talented. He was so polite and nice. I can't name a single person that had any conflict with him. He was my high school friend. I have so many nice memories with him. But yesterday he passed away. He was  dealing with cancer for a long time and now he has eternal peace. He never chose anything but spade as the hokm. Kind man. I hope you rest in peace. We will never forget you.
